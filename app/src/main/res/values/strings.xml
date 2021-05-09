@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS_Erico</string>
+    <string name="home">HOME</string>
+    <string name="about">ABOUT</string>
+    <string name="contact">CONTACT</string>
+    <string name="exit">EXIT</string>
+    <string name="github">GITHUB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
